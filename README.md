@@ -1,2 +1,2 @@
-# intro-date-science
-College homeworks about Date Science in Python.
+# intro-data-science
+College homeworks about Data Science in Python.
